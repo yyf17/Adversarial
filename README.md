@@ -2,8 +2,7 @@
 # 视觉对抗 (重点推荐**)
 
 # 环境动态创建对抗 (重点推荐**)
-[PAIRED](Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design
-)
+[PAIRED:Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design](https://arxiv.org/pdf/2012.02096.pdf)
 [知乎解读](https://zhuanlan.zhihu.com/p/301930130)
 # [图对抗](https://zhuanlan.zhihu.com/p/88934914)
 # 强化学习中的对抗攻击
